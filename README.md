@@ -1,10 +1,3 @@
----
-tags: [Notebooks/Work/subscribeto]
-title: breezy
-created: '2019-10-24T01:29:44.673Z'
-modified: '2019-10-24T02:03:57.146Z'
----
-
 # breezy
 So this is the demo application for our iOS team to learn the new SwiftUI framework Apple introduced in iOS 13. This framework brough a whole new and improved way to build user interfaces using a declrative syntax. This guide will walk you through implementing an interface for the *breezy* demo application but also has nice links and helpful
 reminders for using SwiftUI. Also, you will be able to view required coding style and documentation.
